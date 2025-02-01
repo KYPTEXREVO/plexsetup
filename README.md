@@ -1,6 +1,7 @@
 # plexsetup
 First install the plex desktop application from:
 https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=windows#plex-app
+
 Only use either PC or laptop and this app only, 
 for movile usage: ios not available but for android ask me once(for both the devices its a paid version, and only android version is available)
 and do not share your login access this is only for you and only you 
